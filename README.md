@@ -1,3 +1,1 @@
-lorem ipsum dolor
-
-mike
+my name is michael
